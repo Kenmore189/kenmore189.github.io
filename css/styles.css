@@ -1,6 +1,24 @@
-h1 {
-  font-size: 12px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ddd;
+body {
+    color: rgb(48, 45, 46);
+  
+  }
 
+
+h1 {
+  padding-top: 20px;
+  font-size: 24px;
+  /* padding-left: 20px; */
+  /* border-left: 8px solid rgb(24, 68, 163); */
+  border-bottom: 1px solid rgb(24, 68, 163);
+  text-align: center;
 }
+
+h2 {
+
+ font-size: 20px;
+ /* padding-left: 20px; */
+  /* border-left: 8px solid rgb(158, 24, 163); */
+  border-bottom: 1px solid rgb(158, 24, 163);
+  text-align: center;
+}
+
